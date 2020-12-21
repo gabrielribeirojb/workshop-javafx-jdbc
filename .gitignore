@@ -24,6 +24,9 @@ hs_err_pid*
 
 # build folders
 bin/
+
+# Eclipse
+.settings/
 target/
 nbproject/private/
 build/
